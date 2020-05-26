@@ -1,0 +1,5 @@
+me/timeslinky/prefixselector/commands/CommandManager.class
+me/timeslinky/prefixselector/commands/subcommands/Version.class
+me/timeslinky/prefixselector/commands/SubCommand.class
+me/timeslinky/prefixselector/PrefixSelector.class
+me/timeslinky/prefixselector/commands/subcommands/Add.class

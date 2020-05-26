@@ -1,0 +1,12 @@
+name: PrefixSelector
+version: 1.0.0
+main: me.timeslinky.prefixselector.PrefixSelector
+api-version: 1.13
+softdepend: [UltraPermissions]
+authors: [TimeSlinky]
+description: UltraCraft Prefix Selector
+website: Ultracraft.org
+commands:
+  prefix:
+    usage: /prefix <options>
+    description: Ultracraft Preifx Menu

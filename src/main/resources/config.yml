@@ -1,0 +1,4 @@
+##This is the PrefixSelector Config##
+
+##Version DONT CHANGE THIS##
+version: ${project.version}
